@@ -5,7 +5,6 @@ import keyboard
 import random
 import cv2 as cv
 import numpy as np
-import win32api, win32con
 
 def game_is_over(screenshot):
     game_over_image = cv.imread('gameover.png')
