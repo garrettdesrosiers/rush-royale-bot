@@ -2,6 +2,8 @@
 
 A python script using OpenCV for python to automate Rush Royale Gameplay.
 
-There are a number of libraries needed to run this script, all of them can be easily installed with pip.
-
+Dependencies can be installed using the following pip command:
+```
+pip install -r requirements.txt
+```
 Note: Use of this may violate the MY.GAMES Rush Royale Terms of Use. Use at your own risk. 
