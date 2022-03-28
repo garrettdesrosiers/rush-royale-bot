@@ -15,7 +15,7 @@ print()
 
 
 #checks for matches
-threshold = 0.4
+threshold = 0.5
 locations = np.where(result >= threshold)
 print(locations)
 #Ignore
